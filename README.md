@@ -28,7 +28,7 @@ This project analyzes Uber ride data using Microsoft Excel to identify ride tren
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](Screenshot 2026-03-15 160432.png)
 
 
 ---
